@@ -50,7 +50,7 @@ Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie dany
 * Jeszcze nie zadany
 
  **Projekt 3**:
-* Jeszcze nie zadany
+* Image compression with singular value decomposition: https://github.com/IgorKolodziej/SVD-Image-Compression
   
 ---
 
