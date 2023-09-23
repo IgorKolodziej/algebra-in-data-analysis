@@ -47,7 +47,7 @@ Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie dany
 * Macierze podobne
 
 **Projekt 2**:
-* Jeszcze nie zadany
+* Algebra w kryptografii
 
  **Projekt 3**:
 * Image compression with singular value decomposition: https://github.com/IgorKolodziej/SVD-Image-Compression
@@ -81,7 +81,7 @@ Soloutions of problems prepared for 1 project from **,,Algebra in Data Analysis'
 
 **Professor**:
 
-* PhD Michał Zwierzyński
+* Michał Zwierzyński, PhD 
 
   
 
@@ -114,10 +114,10 @@ Soloutions of problems prepared for 1 project from **,,Algebra in Data Analysis'
 * Similar matrices
 
 **Project 2 :**
-- Not asseset yet
+- Algebra in cryptography
 
 **Project 3 :**
-- Not asseset yet
+* Image compression with singular value decomposition: https://github.com/IgorKolodziej/SVD-Image-Compression
 
   ---
   
