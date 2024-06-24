@@ -1,40 +1,31 @@
 
   
 
-# [PL] Projekty z przedmiotu ,Algebra w analizie danych'
+# [PL] Projekty z przedmiotu "Algebra w Analizie Danych"
 
-  
-  
-
-Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie danych'**
-
-  
-
-**Kierunek**: Inżynieria i analiza danych
+**Kierunek:** Inżynieria i analiza danych
 
 **Wydział:** Matematyki i Nauk Informacyjnych, Politechnika Warszawska
 
-**Prowadzący:**
+**Prowadzący**
 
 - Dr inż. Michał Zwierzyński
 
-  
-
-**Twórcy:**
+**Twórcy**
 
 - Igor Kołodziej
 
 - Mateusz Iwaniuk
  
-**Technologie**:
+**Technologie**
 
 - Python & SymPy
 
 - Jupyter Notebook
 
-  ---
+---
 
-**Projekt 1** :
+**Projekt 1**
 
 * Macierze i klatki Jordana
 
@@ -46,80 +37,56 @@ Rozwiązanie zadań na pierwszy projekt z przedmiotu **,,Algebra w analizie dany
 
 * Macierze podobne
 
-**Projekt 2**:
+**Projekt 2**
 * Algebra w kryptografii
 
- **Projekt 3**:
+ **Projekt 3**
 * Image compression with singular value decomposition: https://github.com/IgorKolodziej/SVD-Image-Compression
   
 ---
-
-
-
-  
-  
-
-
-
-
-  
-
 ---
 
-# [EN] Projects from ,Algebra in data analysis'
+# [EN] Projects from "Algebra in Data Science" course
 
-  
-  
+**Faculty:** Mathematic and Information Sciences, Warsaw University of Technology
 
-Soloutions of problems prepared for 1 project from **,,Algebra in Data Analysis'** subject
+**Professor**
 
-  
+- Michał Zwierzyński, PhD 
 
-**Field of study**: Data Science
-
-**Faculty**: Mathematic and Information Sciences, Warsaw University of Technology
-
-**Professor**:
-
-* Michał Zwierzyński, PhD 
-
-  
-
-**Students**:
+**Authors**
 
 - Igor Kołodziej
 
 - Mateusz Iwaniuk
 
   
-  
-
-**Technology**:
+**Technologies**
 
 - Python & SymPy
 
 - Jupyter Notebook
   
 ---
-**Project 1 :**
+**Project 1**
 
-* Jordan matrices and frames.
+* Jordan matrices and blocks
 
-* Eigenvalues.
+* Eigenvalues
 
-* Kernel dimension.
+* Kernel dimension
 
-* Quick power up.
+* Quick power up
 
 * Similar matrices
 
-**Project 2 :**
-- Algebra in cryptography
+**Project 2**
+* Algebra in cryptography
 
-**Project 3 :**
+**Project 3**
 * Image compression with singular value decomposition: https://github.com/IgorKolodziej/SVD-Image-Compression
 
-  ---
+---
   
 
 
